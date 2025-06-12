@@ -1,24 +1,51 @@
+<h2 align="left">Hi 👋! My name is Eswar and I'm a Data Analyst, from India</h2>
+
+###
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=maurodesouza&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
+  <img src="https://github-profile-trophy.vercel.app?username=maurodesouza&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
+</div>
+
+
+###
+
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="40" alt="numpy logo"  />
+  <!-- Power BI -->
+  <img src="https://img.icons8.com/color/48/000000/power-bi.png" height="40" alt="Power BI logo" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="40" alt="pandas logo"  />
+
+  <!-- Excel -->
+  <img src="https://img.icons8.com/fluency/48/microsoft-excel-2019.png" height="40" alt="Excel logo" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
+
+  <!-- NumPy -->
+  <img src="https://upload.wikimedia.org/wikipedia/commons/3/31/NumPy_logo_2020.svg" height="40" alt="NumPy logo" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" height="40" alt="visualstudio logo"  />
+
+  <!-- Pandas -->
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" height="40" alt="Pandas logo" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="40" alt="jupyter logo"  />
+
+  <!-- SQL (MySQL icon used as representative) -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="SQL logo" />
+</div>
+
+
+
+###
+
+<div align="left">
+  <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
+  <img src="https://img.shields.io/static/v1?message=Twitch&logo=twitch&label=&color=9146FF&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="twitch logo"  />
+  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
+  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
+  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
 </div>
 
 ###
 
-<p align="left"> Hi there 👋 I'm Eswar!<br><br> 
- About Me<br>- 🎓 Graduate with a passion for data analytics & development<br>- 📸 Former photographer & AR Caller, transitioning into the IT industry<br>- 💡 Currently exploring data analytics using Power BI, Excel, SQL & Python<br>- 🚀 Learning cloud tools and automation<br>- 🌱 Always ready to learn new things and contribute to meaningful projects<br><br>## 🛠️ Skills<br>- **Languages:** Python, SQL, CSS<br>- **Data Analysis:** Excel, Power BI, Pandas, NumPy<br>- **Tools & Platforms:** Git, GitHub, VS Code, MS Office<br><br>## 📈 GitHub Stats<br>![Eswar's GitHub stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=github_dark)<br><br>## 📫 Connect with Me<br>- 📧 Email: your.email@example.com<br>- 💼 [LinkedIn](https://linkedin.com/in/your-link)<br>- 🌐 [Portfolio](https://your-portfolio.com)<br><br>---<br><br>_Thanks for visiting my profile! Let's connect and build something great together!_</p>
+<img src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" width="400"/>
 
-###
-
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/Eswar-h/Eswar-h/output/snake.svg" alt="Snake animation" />
 
 ###
