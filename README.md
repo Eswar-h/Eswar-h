@@ -1,14 +1,4 @@
-<h2 align="left">Hi 👋! My name is Eswar and I'm a Data Analyst, from India</h2>
-
-###
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=maurodesouza&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
-  <img src="https://github-profile-trophy.vercel.app?username=maurodesouza&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
-</div>
-
-
-###
+### 👋 Hello! I'm Eswar H
 
 <div align="left">
   <!-- Power BI -->
@@ -30,6 +20,52 @@
   <!-- SQL (MySQL icon used as representative) -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="SQL logo" />
 </div>
+
+
+###
+🎯 A passionate **Data Analyst** and problem-solver with hands-on experience in **Power BI**, **Excel**, **SQL**, and **Python**.  
+📊 I love transforming data into actionable insights and automating reports to drive smart business decisions.
+
+---
+
+### 🧠 Skills & Tools
+- **Languages & Tools**: Python | SQL | Excel | Power BI | Power Query | VBA | Pandas | NumPy  
+- **Database**: MySQL | PostgreSQL  
+- **Visualization**: Power BI | Matplotlib | Seaborn  
+- **Other**: Git | GitHub | VS Code | Jupyter Notebook
+
+---
+
+### 💼 Projects
+- 📦 **Inventory Audit Dashboard**  
+  Built Power BI reports for warehouse audit accuracy using large-scale Excel data.
+  
+- 📊 **Sales Analysis Automation**  
+  Automated daily sales report using Excel VBA + Power Query + Pivot Tables.
+
+- 🧹 **Data Cleaning Script**  
+  Python script to automate cleaning of messy CSV data from different sources.
+
+Check out more in the **Repositories** section ⬅️
+
+---
+
+### 📈 GitHub Stats
+
+![Eswar's GitHub stats](https://github-readme-stats.vercel.app/api?username=Eswar-h&show_icons=true&theme=radical)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Eswar-h&layout=compact&theme=radical)
+
+---
+
+### 📫 Contact Me
+- 💼 [LinkedIn](https://www.linkedin.com/in/YOUR-LINK-HERE)  
+- 📬 Email: eswarhariharan.16.com  
+- 🧾 Portfolio: [Coming Soon / GitHub Pages if available]
+
+---
+
+> "Turning data into decisions."
 
 
 
