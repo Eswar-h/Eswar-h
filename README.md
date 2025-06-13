@@ -30,8 +30,8 @@
 
 ### 🧠 Skills & Tools
 - **Languages & Tools**: Python | SQL | Excel | Power BI | Power Query | VBA | Pandas | NumPy  
-- **Database**: MySQL | PostgreSQL  
-- **Visualization**: Power BI | Matplotlib | Seaborn  
+- **Database**: MySQL
+- **Visualization**: Power BI   
 - **Other**: Git | GitHub | VS Code | Jupyter Notebook
 
 ---
@@ -60,7 +60,7 @@ Check out more in the **Repositories** section ⬅️
 
 ### 📫 Contact Me
 - 💼 [LinkedIn](https://www.linkedin.com/in/YOUR-LINK-HERE)  
-- 📬 Email: eswarhariharan.16.com  
+- 📬 Email: eswarhariharan.16@gmail.com  
 - 🧾 Portfolio: [Coming Soon / GitHub Pages if available]
 
 ---
