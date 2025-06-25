@@ -29,7 +29,7 @@
 ---
 
 ### 🧠 Skills & Tools
-- **Languages & Tools**: Python | SQL | Excel | Power BI | Power Query | VBA | Pandas | NumPy  
+- **Languages & Tools**: Python | SQL | Excel | Power BI | Power Query | Pandas | NumPy  
 - **Database**: MySQL
 - **Visualization**: Power BI   
 - **Other**: Git | GitHub | VS Code | Jupyter Notebook
